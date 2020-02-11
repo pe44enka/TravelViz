@@ -146,3 +146,11 @@ DEPART_DATE,FLIGHT_NUMBER,DEPART_TIME,DEPART_CITY,DEPART_AIRPORT,DEPART_LAT,DEPA
 26-Nov-19,LH1446,12:40:00,Frankfurt am Main ,FRA,50.033333,8.570556,17:55:00,Moscow ,DME,55.40879822,37.90629959,3:15:00,Lufthansa (LH/DLH),Airbus A321-200 (A321),3,1,1,Frankfurt,Moscow,Russia
 16-Dec-19,LX1325,9:05:00,Moscow ,DME,55.40879822,37.90629959,10:50:00,Zurich ,ZRH,47.464699,8.54917,3:45:00,Swiss International Airlines (LX/SWR),Airbus A320-200 (A320),3,1,1,Moscow,Zurich,Switzerland
 16-Dec-19,UA9728,13:15:00,Zurich ,ZRH,47.464699,8.54917,16:15:00,San Francisco ,SFO,37.61899948,-122.375,12:00:00,United Airlines (UA/UAL),Boeing 777-300ER (B77W),1,1,1,Zurich,San Francisco,United States
+25-Jan-20,LX39,19:50:00,San Francisco ,SFO,37.61899948,-122.375,15:45:00,Zurich ,ZRH,47.464699,8.54917,10:55:00,Swiss International Airlines (LX/SWR),Boeing 777-300ER (B77W),1,1,1,San Francisco,Zurich,Switzerland
+27-Jan-20,LX296,9:55:00,Zurich ,ZRH,47.464699,8.54917,19:40:00,Nairobi,NBO,1.3227,36.9261,7:45:00,Swiss International Airlines (LX/SWR),Airbus A330-300 (A333),1,1,1,Zurich,Nairobi,Kenya
+27-Jan-20,LX296,20:40:00,Nairobi,NBO,1.3227,36.9261,22:05:00,Dar as Salaam,DAR,6.7924,39.2083,1:25:00,Swiss International Airlines (LX/SWR),Airbus A330-300 (A333),1,1,1,Nairobi,Dar es Salaam,Tanzania
+30-Jan-20,TC124,20:40:00,Zanzibar,ZNZ,6.1652,39.1989,21:40:00,Kilimanjaro,JRO,3.4245,37.0651,1:00:00,Air Tanzania (TC/ATC),Bombardier Dash 8-400 (DH8D),1,1,1,Zanzibar,Kilimanjaro,Tanzania
+7-Feb-20,TC137,15:00:00,Kilimanjaro,JRO,3.4245,37.0651,16:00:00,Zanzibar,ZNZ,6.1652,39.1989,1:00:00,Air Tanzania (TC/ATC),Bombardier Dash 8-400 (DH8D),1,1,1,Kilimanjaro,Zanzibar,Tanzania
+7-Feb-20,TC137,16:30:00,Zanzibar,ZNZ,6.1652,39.1989,17:00:00,Dar as Salaam,DAR,6.7924,39.2083,0:30:00,Air Tanzania (TC/ATC),Bombardier Dash 8-400 (DH8D),1,1,1,Zanzibar,Dar es Salaam,Tanzania
+7-Feb-20,LX294,23:35:00,Dar as Salaam,DAR,6.7924,39.2083,6:30:00,Zurich ,ZRH,47.464699,8.54917,8:55:00,Swiss International Airlines (LX/SWR),Airbus A330-300 (A333),1,1,1,Dar es Salaam,Zurich,Switzerland
+8-Feb-20,LX38,13:15:00,Zurich ,ZRH,47.464699,8.54917,16:15:00,San Francisco ,SFO,37.61899948,-122.375,12:00:00,Swiss International Airlines (LX/SWR),Boeing 777-300ER (B77W),2,1,1,Zurich,San Francisco,United States
