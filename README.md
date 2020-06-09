@@ -34,6 +34,7 @@ Any story is better with visualizations. In this project I created them for my t
 ![Frequently visited countries](https://user-images.githubusercontent.com/58124951/84109173-ef3bf180-a9d6-11ea-80fd-f2b0bb541783.png) 
 
 6. some animation of plots. Just for fun!
+
 ![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/58124951/84109738-2f4fa400-a9d8-11ea-94c6-9b90f8f952c9.gif)
 ![countries_per_year](https://user-images.githubusercontent.com/58124951/84108943-51482700-a9d6-11ea-95d0-e3c7494a3ee5.gif)
 
