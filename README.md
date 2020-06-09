@@ -27,6 +27,7 @@ Any story is better with visualizations. In this project I created them for my t
 ![city_map](https://user-images.githubusercontent.com/58124951/84117766-e05d3b00-a9e6-11ea-88a7-11ad50bd3120.gif)
 
 4. US map with visited states (using altair)
+
 ![us_map](https://user-images.githubusercontent.com/58124951/84108631-7daf7380-a9d5-11ea-916e-0dc4c5970ff4.png)
 
 5. some statistics on trips (using seaborn)
