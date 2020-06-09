@@ -30,7 +30,7 @@ Any story is better with visualizations. In this project I created them for my t
 
 ![us_map](https://user-images.githubusercontent.com/58124951/84108631-7daf7380-a9d5-11ea-916e-0dc4c5970ff4.png)
 
-5. some statistics on trips (using seaborn)
+5. some statistics on trips
 ![Frequently visited countries](https://user-images.githubusercontent.com/58124951/84109173-ef3bf180-a9d6-11ea-80fd-f2b0bb541783.png) 
 
 6. some animation of plots. Just for fun!
