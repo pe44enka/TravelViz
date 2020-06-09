@@ -12,7 +12,7 @@ This notebook parse and visualize various travel datasets using following:
 * Basemap
 
 ### Installation:
-You shouldn't really install this code, just click on the "Travel_Viz.ipynb" file and in the follow window click on "Open in Colab" button. This will redirect you on colab.research.google.com website. There you can run paragraphs and visualize the data
+You shouldn't really install this code, just click on the "Travel_Viz.ipynb" file and in the follow window click on "Open in Colab" button. This will redirect you on colab.research.google.com website. There you can run cells and visualize the data
 
 ### Usage:
 Any story is better with visualizations. In this project I created them for my travel history, including:
