@@ -1,7 +1,7 @@
 ﻿State,Abbr,Visit,id
-Arizona ,AZ,Visited,04
-California,CA,Visited,06
-Colorado,CO,Visited,08
+Arizona ,AZ,Visited,4
+California,CA,Visited,6
+Colorado,CO,Visited,8
 Florida ,FL,Visited,12
 Hawaii ,HI,Visited,15
 Massachusetts ,MA,Visited,25
@@ -13,3 +13,6 @@ Pennsylvania ,PA,Visited,42
 Texas,TX,Visited,48
 Utah ,UT,Visited,49
 "Columbia, DC",DC,Visited,11
+Idaho,ID,Visited,13
+Wyoming,WY,Visited,55
+Montana,MT,Visited,30
