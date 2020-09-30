@@ -165,3 +165,9 @@ DEPART_DATE,FLIGHT_NUMBER,DEPART_TIME,DEPART_CITY,DEPART_AIRPORT,DEPART_LAT,DEPA
 22-Jun-20,F9665,22:09:00,Denver ,DEN,39.86169815,-104.6729965,23:48:00,San Francisco ,SFO,37.61899948,-122.375,2:39:00,Frontier Airlines (F9/FFT),Airbus A320-200 (A320),3,1,1,Denver,San Francisco,United States
 10-Jul-20,DL3505,10:23:00,San Jose ,SJC,37.362598,-121.929001,13:09:00,Salt Lake City ,SLC,40.78839874,-111.9779968,1:46:00,Delta Air Lines (DL/DAL),Embraer 175 (E75L),3,1,1,San Jose,Salt Lake City,United States
 14-Jul-20,DL86,20:40:00,Salt Lake City ,SLC,40.78839874,-111.9779968,21:26:00,San Jose ,SJC,37.362598,-121.929001,1:46:00,Delta Air Lines (DL/DAL),Bombardier CS100 (BCS1),1,1,1,Salt Lake City,San Jose,United States
+13-Aug-20,F9664,11:09:00,San Francisco ,SFO,37.61899948,-122.375,14:54:00,Denver ,DEN,39.86169815,-104.6729965,2:45:00,Frontier Airlines (F9/FFT),Airbus A320neo (A20N),1,1,1,San Francisco,Denver,United States
+17-Aug-20,F9665,22:09:00,Denver ,DEN,39.86169815,-104.6729965,23:48:00,San Francisco ,SFO,37.61899948,-122.375,2:39:00,Frontier Airlines (F9/FFT),Airbus A320-200 (A320),2,1,1,Denver,San Francisco,United States
+4-Sep-20,AS1477,12:30:00,San Francisco ,SFO,37.61899948,-122.375,14:40:00,Seattle,SEA,47.4502,-122.3088,2:10:00,Alaska Airlines (AS/ASA),Boeing 737-900 (B739),1,1,1,San Francisco,Seattle,United States
+4-Sep-20,AS101,15:30:00,Seattle,SEA,47.4502,-122.3088,18:05:00,Anchorage,ANC,61.1759,-149.9901,3:35:00,Alaska Airlines (AS/ASA),Boeing 737-900 (B739),1,1,1,Seattle,Anchorage,United States
+13-Sep-20,AS98,14:10:00,Anchorage,ANC,61.1759,-149.9901,18:27:00,Seattle,SEA,47.4502,-122.3088,3:17:00,Alaska Airlines (AS/ASA),Boeing 737-800 (B738),1,1,1,Anchorage,Seattle,United States
+13-Sep-20,AS1328,21:25:00,Seattle,SEA,47.4502,-122.3088,23:30:00,San Francisco ,SFO,37.61899948,-122.375,2:05:00,Alaska Airlines (AS/ASA),Airbus A320 (A320),1,1,1,Seattle,San Francisco,United States
