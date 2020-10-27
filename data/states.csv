@@ -1,21 +1,53 @@
-﻿State,Abbr,Visit,id
-Arizona ,AZ,Visited,4
+State,Abbr,Visit,id
+Alabama,AL,,1
+Alaska,AK,Visited,2
+Arizona,AZ,Visited,4
+Arkansas,AR,,5
 California,CA,Visited,6
 Colorado,CO,Visited,8
-Florida ,FL,Visited,12
-Hawaii ,HI,Visited,15
-Massachusetts ,MA,Visited,25
-Nevada ,NV,Visited,32
-New Jersey ,NJ,Visited,34
-New York ,NY,Visited,36
-Oregon ,OR,Visited,41
-Pennsylvania ,PA,Visited,42
-Texas,TX,Visited,48
-Utah ,UT,Visited,49
-"Columbia, DC",DC,Visited,11
+Connecticut,CT,,9
+Delaware,DE,,10
+District Of Columbia,DC,Visited,11
+Florida,FL,Visited,12
+Georgia,GA,,13
+Hawaii,HI,Visited,15
 Idaho,ID,Visited,16
-Wyoming,WY,Visited,56
+Illinois,IL,,17
+Indiana,IN,,18
+Iowa,IA,,19
+Kansas,KS,,20
+Kentucky,KY,,21
+Louisiana,LA,,22
+Maine,ME,,23
+Maryland,MD,,24
+Massachusetts,MA,Visited,25
+Michigan,MI,,26
+Minnesota,MN,,27
+Mississippi,MS,,28
+Missouri,MO,,29
 Montana,MT,Visited,30
-South Dakota,ND,Visited,46
-North Dakota,SD,Visited,38
-Alaska,AK,Visited,2
+Nebraska,NE,Visited,31
+Nevada,NV,Visited,32
+New Hampshire,NH,,33
+New Jersey,NJ,Visited,34
+New Mexico,NM,,35
+New York,NY,Visited,36
+North Carolina,NC,,37
+North Dakota,ND,Visited,38
+Ohio,OH,,39
+Oklahoma,OK,,40
+Oregon,OR,Visited,41
+Pennsylvania,PA,Visited,42
+Puerto Rico,PR,,72
+Rhode Island,RI,,44
+South Carolina,SC,,45
+South Dakota,SD,Visited,46
+Tennessee,TN,,47
+Texas,TX,Visited,48
+Utah,UT,Visited,49
+Vermont,VT,,50
+Virginia,VA,,51
+Washington,WA,,53
+West Virginia,WV,,54
+Wisconsin,WI,,55
+Wyoming,WY,Visited,56
