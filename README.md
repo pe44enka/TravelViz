@@ -3,12 +3,12 @@
 ### Description:
 This notebook parse and visualize various travel datasets using following:
 * Python 3
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* altair
-* folium
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Altair
+* Folium
 * Basemap
 
 ### Installation:
