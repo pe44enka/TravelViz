@@ -14,15 +14,15 @@ Hawaii,HI,Visited,15
 Idaho,ID,Visited,16
 Illinois,IL,,17
 Indiana,IN,,18
-Iowa,IA,,19
+Iowa,IA,Visited,19
 Kansas,KS,,20
 Kentucky,KY,,21
 Louisiana,LA,,22
 Maine,ME,,23
 Maryland,MD,,24
 Massachusetts,MA,Visited,25
-Michigan,MI,,26
-Minnesota,MN,,27
+Michigan,MI,Visited,26
+Minnesota,MN,Visited,27
 Mississippi,MS,,28
 Missouri,MO,,29
 Montana,MT,Visited,30
@@ -30,7 +30,7 @@ Nebraska,NE,Visited,31
 Nevada,NV,Visited,32
 New Hampshire,NH,,33
 New Jersey,NJ,Visited,34
-New Mexico,NM,,35
+New Mexico,NM,Visited,35
 New York,NY,Visited,36
 North Carolina,NC,,37
 North Dakota,ND,Visited,38
@@ -47,7 +47,7 @@ Texas,TX,Visited,48
 Utah,UT,Visited,49
 Vermont,VT,,50
 Virginia,VA,,51
-Washington,WA,,53
+Washington,WA,Visited,53
 West Virginia,WV,,54
-Wisconsin,WI,,55
+Wisconsin,WI,Visited,55
 Wyoming,WY,Visited,56
